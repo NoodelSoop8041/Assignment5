@@ -4,7 +4,7 @@
   "description": "Backend API for Recipe Sharing application",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "intential_break.js",
     "dev": "nodemon server.js",
     "test": "jest --detectOpenHandles",
     "test:watch": "jest --watch --detectOpenHandles"
